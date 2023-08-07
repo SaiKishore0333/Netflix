@@ -1,0 +1,315 @@
+
+*{
+    margin: 0;
+    /* width: 100%; */
+}
+ body{
+    background-color: rgb(123, 120, 120);
+    color: white;
+    
+    
+} 
+.pic{
+     background-image: cover;
+     width: 100%;
+     background: linear-gradient(to right black red yellow);
+}
+.pic:hover{
+   
+}
+.netlogo{
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    width: 200px;
+    /* background: linear-gradient(rgba(255, 0, 0, 0.088)); */
+    
+
+}
+.btn{
+    text-decoration: none;
+    position: absolute;
+    top: 60px;
+    left: 1400px;
+    background-color: red;
+    font-size: 15px;
+    padding: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid red;
+    text-decoration: none;
+}
+.sign{
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    text-decoration: none;
+}
+.select{
+     position: absolute;
+     top: 60px;
+     left: 1250px ; 
+     color: white;
+     padding: 10px;
+     background-color:rgba(0, 0, 0, 0.059)
+}
+.para{
+    position: absolute;
+    top: 40px;
+    left: 30px;
+    color: red;
+    font-size: 35px;
+    font-weight: 400px;
+}
+.mainpara{
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    text-align: center;
+    color: white;
+}
+.para1{
+    font-size: 60px;
+}
+.para2{
+    font-size: 25px;
+}
+.para3{
+    font-size: 25px;
+}
+.input1{
+    position: absolute;
+    top: 550px;
+    height: 60px;
+    width: 520px;
+    left: 350px;
+    
+}
+.ancr1{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+.btn1{
+    position: absolute;
+    top: 550px;
+    height: 65px;
+    width: 250px;
+    left: 870px;
+    background-color: red;
+    border: red;
+}
+.tin2{
+    display: flex;
+    justify-content: space-around;
+    height: 450px; 
+    background-color: black;
+}
+.tin2p1{
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  position: absolute;
+  top: 1000px;
+  left: 250px;
+}
+.tin2p2{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 1070px;
+    left: 250px;
+  }
+
+.tina{
+     position: relative;
+     left: 180px;
+
+}
+.tv1{
+    position: absolute;
+    z-index: 2;
+    width: 550px;
+    right: -50px;
+
+}
+.video1{
+    position: absolute;
+    width: 400px;
+    right: 27px;
+    top: 86px;
+    z-index: 1;
+}
+.tin3{
+    display: flex;
+     background-color: black;
+     /* height: 600px; */
+}
+.tinb{
+    margin-left: 150px;
+
+} 
+.tin3p1{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 1500px;
+    left: 900px;
+}
+.tin3p2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 1630px;
+    left: 900px;
+}
+.tin4{
+    display: flex;
+    background-color: black;
+    width: 100%;
+     height: 650px;
+}
+.tinc{
+     margin-left: 800px;
+     
+}
+.tin4p1{
+  position: absolute;
+  top: 1950px;
+  left: 250px;
+  font-size: 45px;
+  color: red;
+}
+.tin4p2{
+ position: absolute;
+ top: 2020px;
+ left: 250px;
+ font-size: 25px;
+
+}
+.video2{
+    position: absolute;
+    top: 1999px;
+    left: 915px;
+    width: 400px;
+
+}
+.tv2{
+    position: absolute;
+    top: 1950px;
+    z-index: 1;
+
+}
+.tin5{
+    background-color: black;
+    height: 600px;
+    width: 100%;
+
+
+}
+.tind{
+    position: absolute;
+    top: 2500px;
+    left: 150px;
+    width: 550px;
+}
+.tin5p1{
+    position: absolute;
+    top: 2600px;
+    left: 800px;
+    font-size: 60px;
+}
+.tin5p2{
+    position: absolute;
+    top: 2740px;
+    left: 800px;
+    font-size: 25px;
+}
+.tin6{
+    background-color: black;
+}
+.tin6p1{
+    position: relative;
+    top:65px;
+    font-size: 45px;
+    text-align: center;
+}
+.ancr2 a{
+    position: relative;
+    top: 120px;
+    text-decoration: none;
+    left: 580px;
+    font-size: 20px;
+    color: white;
+}
+.tin6p2{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 200px;
+}
+.ancr4{
+    width: 830px;
+    background-color:#303030;
+    margin-left: 380px;
+    margin-right: 300px;
+    height: 60px;
+    padding: 5px;
+
+}
+.tags{
+    position: relative;
+    top: 80px;
+    
+}
+.ancrtxt{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    
+}
+.input{
+    display: flex;
+}
+
+.input2{
+   position: relative;
+   width: 500px;
+   height: 60px;
+   left: 400px;
+} 
+.ancr3{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+
+}
+.btn2{
+    background-color: red;
+    border: red;
+    position: absolute;
+    left: 908px;
+    height: 66px;
+    width: 230px;
+}
+.fp{
+     margin-top: 80px;
+     margin-left: 300px;
+     /* color: grey; */
+
+}
+
+.fmaindiv{
+    background-color: black;
+    height: 200px;
+    /* display: flex; */
+}
+.fancr{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+.ftag1{
+    margin-right: 80px;  
+}
+
+
