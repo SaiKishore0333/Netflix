@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+}
+
+/* navbar design */
+.navbar{
+    background-color: #58614E;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.nav-link{
+    color: white;
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+/* header start */
+.main header{
+    padding: 20px;
+}
+
+header{
+    display: flex;
+    border: 2px solid grey;
+}
+
+.header-text{
+    text-align: center;
+    padding: 40px;
+    line-height: 45px;
+    margin-top: 20px;
+}
+
+.header-text{
+    font-size: 30px;
+}
+
+/* 1st body start */
+.body{
+    display: flex;
+    margin: top 10px;
+}
+.body1{
+    margin-left: 200px;
+    word-spacing: 5px;
+    margin-top: 15px;
+}
+.body2{
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.body3{
+    margin-left: 50px;
+}
+
+/* 2nd body start */
+.holder{
+    background-color: ;
+    text-align: center;
+    
+}
